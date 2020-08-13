@@ -57,7 +57,7 @@ I'm using Selenium web automation framework. This project supported java1.8,mave
 Scenario:
 * Open to https://www.turna.com/
 * Select to round trip.
-* Enter to the departure airport code/name :smile:
+* Enter to the departure airport code/name
 * Enter to the arrival airport code/name
 * Enter to the departure date.
 * Enter to the arrival data.
