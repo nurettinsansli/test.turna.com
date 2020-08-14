@@ -5,7 +5,6 @@ import com.testinium.page.PageRezervation;
 import com.testinium.page.PageTicketSearch;
 import com.testinium.base.BaseWebDriverTest;
 import com.testinium.page.PageTicketSelect;
-import org.apache.log4j.PropertyConfigurator;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;

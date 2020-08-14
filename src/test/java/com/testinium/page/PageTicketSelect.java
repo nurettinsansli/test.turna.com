@@ -13,6 +13,9 @@ public class PageTicketSelect extends BasePage {
     public void chooseTicket() throws InterruptedException {
         WebElement airlinename= findElement(airline_name);
         scrollDown(airlinename);
+        clickElement(airlineAj);
+        clickElement(airlinePc);
+        clickElement(airlineMultiple);
         clickElement(fromBtn);
         clickElement(toBtn);
         clickElement(DevamBtn);

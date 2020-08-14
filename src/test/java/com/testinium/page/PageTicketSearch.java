@@ -14,9 +14,9 @@ public class PageTicketSearch extends BasePage {
 
         clickElement(flightType);
         findElement(origin).clear();
-        sendKeys(origin,"SAW");
+        sendKeys(origin,"IST");
         findElement(origin).sendKeys(Keys.ENTER);
-        sendKeys(dest,"ADB");
+        sendKeys(dest,"AYT");
         findElement(origin).sendKeys(Keys.ENTER);
         clickElement(fromDate);
         clickElement(fromDay);
