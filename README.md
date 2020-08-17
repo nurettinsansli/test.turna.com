@@ -169,7 +169,9 @@ _Junit5  [Documentation](https://www.tutorialspoint.com/junit/index.htm)_
 
 _Featured Page Object Model in Selenium  [Documentation](https://chercher.tech/java/featured-page-object-model-selenium-webdriver)_
 
-
+<!-- Tasks -->
+## Tasks
+Develop a locator strategies without clicking index.
 
 
 
